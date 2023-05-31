@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eco-connect/static/css/main.ac5ea6b1.css",
-    "main.js": "/eco-connect/static/js/main.e59e5bd5.js",
+    "main.css": "/eco-connect/static/css/main.24276c19.css",
+    "main.js": "/eco-connect/static/js/main.e2115260.js",
     "static/js/787.c18abfd5.chunk.js": "/eco-connect/static/js/787.c18abfd5.chunk.js",
     "static/media/pic-4.jpg": "/eco-connect/static/media/pic-4.d3962668c3940b567889.jpg",
     "static/media/pic-3.jpg": "/eco-connect/static/media/pic-3.8de4e2f6b0cd42b5250b.jpg",
@@ -16,12 +16,12 @@
     "static/media/turkey.svg": "/eco-connect/static/media/turkey.5c4498fd2093ff78577bfd78cd0c9827.svg",
     "index.html": "/eco-connect/index.html",
     "static/media/france.svg": "/eco-connect/static/media/france.d82a5376e4d34c1bb9c09b3db0250bc3.svg",
-    "main.ac5ea6b1.css.map": "/eco-connect/static/css/main.ac5ea6b1.css.map",
-    "main.e59e5bd5.js.map": "/eco-connect/static/js/main.e59e5bd5.js.map",
+    "main.24276c19.css.map": "/eco-connect/static/css/main.24276c19.css.map",
+    "main.e2115260.js.map": "/eco-connect/static/js/main.e2115260.js.map",
     "787.c18abfd5.chunk.js.map": "/eco-connect/static/js/787.c18abfd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac5ea6b1.css",
-    "static/js/main.e59e5bd5.js"
+    "static/css/main.24276c19.css",
+    "static/js/main.e2115260.js"
   ]
 }
