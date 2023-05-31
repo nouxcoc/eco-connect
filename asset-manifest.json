@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/eco-connect/static/css/main.ac5ea6b1.css",
+    "main.js": "/eco-connect/static/js/main.e59e5bd5.js",
+    "static/js/787.c18abfd5.chunk.js": "/eco-connect/static/js/787.c18abfd5.chunk.js",
+    "static/media/pic-4.jpg": "/eco-connect/static/media/pic-4.d3962668c3940b567889.jpg",
+    "static/media/pic-3.jpg": "/eco-connect/static/media/pic-3.8de4e2f6b0cd42b5250b.jpg",
+    "static/media/user.jpg": "/eco-connect/static/media/user.8de4e2f6b0cd42b5250b.jpg",
+    "static/media/pic-1.jpg": "/eco-connect/static/media/pic-1.f2cbbab6508a6d904061.jpg",
+    "static/media/pic-2.jpg": "/eco-connect/static/media/pic-2.040c30d66b1c28c8ab7e.jpg",
+    "static/media/united-states.svg": "/eco-connect/static/media/united-states.a334f236778a9c074ccc07bb679f4cd6.svg",
+    "static/media/spain.svg": "/eco-connect/static/media/spain.7ad5c2e4c14ef8d20d6a954dd5e25eb2.svg",
+    "static/media/brazil.svg": "/eco-connect/static/media/brazil.4f454e9e1cc4a351e9af5d351c914252.svg",
+    "static/media/india.svg": "/eco-connect/static/media/india.0530155b01c8d33ca0ebd79bf099cfb1.svg",
+    "static/media/logo.svg": "/eco-connect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/turkey.svg": "/eco-connect/static/media/turkey.5c4498fd2093ff78577bfd78cd0c9827.svg",
+    "index.html": "/eco-connect/index.html",
+    "static/media/france.svg": "/eco-connect/static/media/france.d82a5376e4d34c1bb9c09b3db0250bc3.svg",
+    "main.ac5ea6b1.css.map": "/eco-connect/static/css/main.ac5ea6b1.css.map",
+    "main.e59e5bd5.js.map": "/eco-connect/static/js/main.e59e5bd5.js.map",
+    "787.c18abfd5.chunk.js.map": "/eco-connect/static/js/787.c18abfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5ea6b1.css",
+    "static/js/main.e59e5bd5.js"
+  ]
+}
